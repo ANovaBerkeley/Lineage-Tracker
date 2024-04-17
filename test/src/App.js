@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -7,8 +7,7 @@ function App() {
         <div className="contentContainer"> 
           <div className="title"> Lineage Tracker</div>
           <div className="button">
-            <p>
-              Brown Town
+            <p id="familyName"> Brown Town
             </p>
             <div/>
           </div>
